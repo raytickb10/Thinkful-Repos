@@ -1,0 +1,5 @@
+git remote add origin https://github.com/raytickb10/Thinkful-Repos.git
+git push -u origin master
+
+Here is the repl.it for my Asynchronous GitHub Repos assignment: 
+https://repl.it/@raytickbrian/Asynch-GitHub-Repos
